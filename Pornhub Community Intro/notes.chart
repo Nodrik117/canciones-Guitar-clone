@@ -1,0 +1,39 @@
+﻿[Song]
+{
+  Name = "Pornhub Community Intro"
+  Artist = "Pornhub"
+  Charter = "LMBECIL1832"
+  Album = "Pornhub"
+  Year = ", 2016"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 1
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Porn"
+  MediaType = "cd"
+  MusicStream = "song.mp3"
+}
+[SyncTrack]
+{
+  0 = TS 1
+  0 = B 801111
+  192 = B 87124
+  384 = B 84273
+  768 = B 87255
+}
+[Events]
+{
+  192 = E "section Nope"
+}
+[ExpertDoubleBass]
+{
+  144 = E solo
+  192 = N 1 96
+  336 = N 0 0
+  384 = N 1 96
+  528 = N 2 144
+  768 = N 0 192
+  864 = E soloend
+}

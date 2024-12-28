@@ -1,0 +1,72 @@
+[Song]
+{
+  Name = "Nintendo Gamecube Intro"
+  Artist = "Nintendo"
+  Charter = "JaysonTM"
+  Year = ", 2002"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 4
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Nintendo"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+  GuitarStream = "song.ogg"
+  RhythmStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+  912 = B 227000
+}
+[Events]
+{
+}
+[ExpertSingle]
+{
+  960 = N 1 0
+  976 = N 2 0
+  992 = N 3 0
+  1008 = N 2 0
+  1024 = N 1 0
+  1152 = N 0 0
+  1248 = N 1 0
+  1344 = N 2 0
+  1440 = N 3 0
+  1536 = N 4 0
+  1632 = N 2 0
+  1728 = N 3 0
+  1824 = N 1 0
+  1920 = N 0 0
+  2016 = N 2 0
+  2112 = N 1 0
+  2208 = N 0 0
+  2304 = N 7 0
+  2400 = N 7 0
+  2496 = N 0 0
+  2592 = N 1 0
+  2688 = N 2 0
+  2784 = N 3 0
+  2880 = N 2 0
+  2880 = N 4 0
+  2976 = N 3 0
+  3072 = N 2 0
+  3168 = N 1 0
+  3168 = N 3 0
+  3264 = N 2 0
+  3360 = N 1 0
+  3456 = N 0 0
+  3456 = N 2 0
+  3776 = N 0 0
+  3792 = N 1 0
+  3808 = N 2 0
+  3824 = N 3 0
+  3840 = N 0 0
+  3840 = N 1 0
+  3840 = N 2 0
+  3840 = N 3 0
+  3840 = N 4 0
+}
